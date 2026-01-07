@@ -1,6 +1,6 @@
 # Simple Web Application - Docker + Kubernetes Learning Project
 
-Full-stack application with React frontend, Go backend, and PostgreSQL database, containerized with Docker and ready for Kubernetes deployment. Sole purpose of this app is to showcase and practice kubernetes and docker skills. The app itself doesn't have much functionality. A working version running on a small scale cluster can be visited on: dev.wtfthiscantbe.art
+Full-stack application with React frontend, Go backend, and PostgreSQL database, containerized with Docker and ready for Kubernetes deployment. Sole purpose of this app is to showcase and practice kubernetes and docker skills. The app itself doesn't have much functionality. A working version running on a small scale cluster can be visited on: [dev.wtfthiscantbe.art](dev.wtfthiscantbe.art)
 
 ## Quick Start
 
